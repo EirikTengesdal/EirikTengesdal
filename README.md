@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning R and Python.
 - 💞️ I’m looking to collaborate on advanced prosodic analysis of speech data (specifically Scandinavian languages), for instance appplying Wavelet analysis.
 - 📫 How to reach me: eirik.tengesdal@iln.uio.no
+- 👨‍🏫 ORCID: https://orcid.org/0000-0003-0599-8925 (Eirik Tengesdal)
 
 <!---
 EirikTengesdal/EirikTengesdal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
